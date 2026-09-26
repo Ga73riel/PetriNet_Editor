@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap');
+@import 'tailwindcss';
+
+:root {
+  --background: #060b18;
+  --foreground: #e2e8f0;
+  --card: #0f172a;
+  --card-foreground: #cbd5e1;
+  --primary: #3b82f6;
+  --primary-foreground: #eff6ff;
+  --muted: #1e293b;
+  --muted-foreground: #64748b;
+  --border: #1e293b;
+  --radius: 8px;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: 'Inter', sans-serif;
+}
+
+* { scrollbar-width: thin; scrollbar-color: #334155 transparent; }

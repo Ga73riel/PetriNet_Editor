@@ -1,0 +1,10 @@
+{
+  "description": "Organize and manage your personal projects efficiently with intuitive tools designed to boost productivity and track progress seamlessly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
